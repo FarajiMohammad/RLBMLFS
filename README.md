@@ -29,5 +29,4 @@ If you use this repository or its implementation in your research, please cite *
   year={2026},
   publisher={Elsevier}
 }
-}
 ```
