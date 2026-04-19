@@ -3,7 +3,7 @@
 
 # [Robust log-based multi-label feature selection with dynamic label correlation and relevance–redundancy optimization (RLBMLFS)](https://doi.org/10.1016/j.knosys.2026.115825)
 
-[![Paper](https://img.shields.io/badge/Knowledge%20Based%20Systems-2026-FFD700?style=for-the-badge)](https://doi.org/10.1016/j.knosys.2026.115825)
+[![Paper](https://img.shields.io/badge/Knowledge_Based_Systems-2026-blue)](https://doi.org/10.1016/j.knosys.2026.115825)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 Official implementation of the **RLBMLFS** framework as presented in *Knowledge-Based Systems (2026)*.
